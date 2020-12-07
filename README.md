@@ -1,4 +1,4 @@
-# Summer-2020-code-used-to-grade-qualifications
+# Summer 2020 code used to grade qualifications
 
 This repository contains R code that Ofqual developed to support GCSE, AS and A level awarding of calculated grades in summer 2020. 
 
